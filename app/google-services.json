@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333448576189",
+    "project_id": "loginwithfb-c9e5e",
+    "storage_bucket": "loginwithfb-c9e5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333448576189:android:d13950850b78137132cbd4",
+        "android_client_info": {
+          "package_name": "com.example.loginwithfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333448576189-ngjqtseh1omv1tpegun7eh5rfrvbvh7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC80sEBE2e-qX10fuUDXukHEP-qZJ-OIKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333448576189-ngjqtseh1omv1tpegun7eh5rfrvbvh7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
